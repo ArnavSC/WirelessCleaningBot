@@ -6,6 +6,6 @@ The water is pumped via the motor attached in front, the two wheels ahead are su
 Material Used: Node MCU, 2 Motor Drivers, 4 Motors, Water Pump, A mobile phone With Blynk App, 9V power source
 
 ## Working Demo 
-###### (Click on the image for the video)
+##### Click on the image for the video
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iqIQYo0TXXs/0.jpg)](https://www.youtube.com/watch?v=iqIQYo0TXXs)
